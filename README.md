@@ -2,7 +2,7 @@
 
 ## SubtitleTimeShift
 <p>Diretório do arquivo de saída com a legenda sincronizada: <br>
- Andritz-Teste/SubtitleTimeshift.Tests/bin/Debug/netcoreapp3.1/The.Matrix.1999.BluRay.720p.Malay - Copy.srt </p>
+ SubtitleTimeshift.Tests/bin/Debug/netcoreapp3.1/The.Matrix.1999.BluRay.720p.Malay - Copy.srt </p>
 <p>OBS: Arquivo na pasta raiz do teste possuia um erro nos segundos do ultimo tempo de legenda na linha 5820.</p>
 
 ## Graph
