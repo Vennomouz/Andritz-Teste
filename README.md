@@ -1,4 +1,4 @@
-# ANDRITZ Avaliação Dev
+# Avaliação Dev
 
 ## SubtitleTimeShift
 <p>Diretório do arquivo de saída com a legenda sincronizada: <br>
