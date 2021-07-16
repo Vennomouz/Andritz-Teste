@@ -1,9 +1,9 @@
-# ANDRITZ Dev Assessment
+# ANDRITZ Avaliação Dev
 
-This is a evaluation test for developer position.
+##SubtitleTimeShift
+Diretório do arquivo de saída com a legenda sincronizada:
+ Andritz-Teste/SubtitleTimeshift.Tests/bin/Debug/netcoreapp3.1/The.Matrix.1999.BluRay.720p.Malay - Copy.srt 
+OBS: Arquivo na pasta raiz do teste possuia um erro nos segundos do ultimo tempo de legenda na linha 5820.
 
-There are 2 tests:
-
-1: Imagine that we have a subtitle file (.srt) out of sync. The program must be able to shift the whole source file by the given timespan.
-
-2: Given a predefined list of links, the program must be able to calculate the possible paths between one point and another.
+##Graph
+Teste incompleto, faltou um retorno do tipo IOBservable para o método RoutesBetween.
