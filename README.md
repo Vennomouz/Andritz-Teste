@@ -6,4 +6,4 @@
 <p>OBS: Arquivo na pasta raiz do teste possuia um erro nos segundos do ultimo tempo de legenda na linha 5820.</p>
 
 ## Graph
-<p>Teste incompleto, faltou um retorno do tipo IOBservable para o método RoutesBetween.</p>
+<p>Teste incompleto, faltou um retorno do tipo IObservable para o método RoutesBetween.</p>
